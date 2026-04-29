@@ -1,3 +1,6 @@
+# Видео обзор:
+https://drive.google.com/file/d/1VamEDHfu0lGiMVCTnCIU0nKRITCkMThp/view?usp=sharing
+
 # History Simulator
 
 Интерактивный учебный проект по альтернативной истории России XIX–XX веков.
