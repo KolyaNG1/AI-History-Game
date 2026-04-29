@@ -1,4 +1,4 @@
-# Видео обзор:
+# Видео обзор - демонстрация:
 https://drive.google.com/file/d/1VamEDHfu0lGiMVCTnCIU0nKRITCkMThp/view?usp=sharing
 
 # History Simulator
